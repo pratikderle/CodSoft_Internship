@@ -1,0 +1,52 @@
+<resources>
+    <string name="app_name">QUOTE</string>
+<!--    <string name="quote1"> “We cannot solve problems with the kind of thinking we employed when we came up with them.” \n        —Albert Einstein </string>-->
+<!--    <string name="quote2"> “Learn as if you will live forever, live like you will die tomorrow.”\n        —Mahatma Gandhi</string>-->
+<!--    <string name="quote3">“Stay away from those people who try to disparage your ambitions. Small minds will always do that, but great minds will give you a feeling that you can become great too.”\n        —Mark Twain</string>-->
+<!--    <string name="quote4">“When you give joy to other people, you get more joy in return. You should give a good thought to the happiness that you can give out.”\n       —Eleanor Roosevelt</string>-->
+<!--    <string name="quote5">“When you change your thoughts, remember to also change your world.”\n        —Norman Vincent Peale</string>-->
+<!--    <string name="quote6">“It is only when we take chances that our lives improve. The initial and the most difficult risk we need to take is to become honest.”\n       —Walter Anderson</string>-->
+<!--    <string name="quote7">“Nature has given us all the pieces required to achieve exceptional wellness and health, but has left it to us to put these pieces together.”\n       —Diane McLaren</string>-->
+<!--    <string name="quote8">“Success is not final; failure is not fatal: It is the courage to continue that counts.”\n        —Winston Churchill</string>-->
+<!--    <string name="quote9">“It is better to fail in originality than to succeed in imitation.”\n        —Herman Melville</string>-->
+<!--    <string name="quote10">“The road to success and the road to failure are almost exactly the same.”\n        —Colin R. Davis</string>-->
+<!--    <string name="quote11">“Success usually comes to those who are too busy to be looking for it.”\n        —Henry David Thoreau</string>-->
+<!--    <string name="quote12">“Develop success from failures. Discouragement and failure are two of the surest stepping stones to success.”\n        —Dale Carnegie</string>-->
+<!--    <string name="quote13">“There are three ways to ultimate success: The first way is to be kind. The second way is to be kind. The third way is to be kind.”\n        —Mister Rogers</string>-->
+<!--    <string name="quote14">“Success is peace of mind, which is a direct result of self-satisfaction in knowing you made the effort to become the best of which you are capable.”\n         —John Wooden-->
+<!--</string>-->
+<!--    <string name="quote15">“I never dreamed about success. I worked for it.”\n       —Estée Lauder-->
+<!--</string>-->
+<!--    <string name="quote16">“Success is getting what you want; happiness is wanting what you get.”\n       —W. P. Kinsella-->
+<!--</string>-->
+<!--    <string name="quote17">“The pessimist sees difficulty in every opportunity. The optimist sees opportunity in every difficulty.”\n       —Winston Churchill-->
+<!--</string>-->
+<!--    <string name="quote18">“Don’t let yesterday take up too much of today.”\n        —Will Rogers-->
+<!--</string>-->
+<!--    <string name="quote19">“You learn more from failure than from success. Don’t let it stop you. Failure builds character.”\n        —Unknown-->
+<!--</string>-->
+<!--</resources>-->
+<!--<resources>-->
+        <string-array name="my_strings">
+            <item> “We cannot solve problems with the kind of thinking we employed when we came up with them.” \n        —Albert Einstein</item>
+            <item> “Learn as if you will live forever, live like you will die tomorrow.”\n        —Mahatma Gandhi</item>
+            <item>“When you change your thoughts, remember to also change your world.”\n        —Norman Vincent Peale</item>
+            <item>“Stay away from those people who try to disparage your ambitions. Small minds will always do that, but great minds will give you a feeling that you can become great too.”\n        —Mark Twain</item>
+            <item>“When you give joy to other people, you get more joy in return. You should give a good thought to the happiness that you can give out.”\n       —Eleanor Roosevelt</item>
+            <item>“It is only when we take chances that our lives improve. The initial and the most difficult risk we need to take is to become honest.”\n       —Walter Anderson</item>
+            <item>“I love to see a young girl go out and grab the world by the lapels. Life’s a bitch. You’ve got to go out and kick ass.” — Maya Angelou</item>
+            <item>“Without ambition one starts nothing. Without work one finishes nothing. The prize will not be sent to you. You have to win it.” — Ralph Waldo Emerson</item>
+            <item>“You’ve got to get up every morning with determination if you’re going to go to bed with satisfaction.” — George Lorimer</item>
+            <item>“Never give up on a dream just because of the time it will take to accomplish it. The time will pass anyway.” — Earl Nightingale</item>-
+            <item>“Someday is not a day of the week.” — Janet Dailey</item>
+            <item>“‘Today is always here,’ said Sethe. ‘Tomorrow, never.’” ― Toni Morrison</item>
+            <item>"It takes courage to grow up and become who you really are." — E.E. Cummings</item>
+            <item> "Keep your face always toward the sunshine, and shadows will fall behind you." — Walt Whitman</item>
+            <item>"Attitude is a little thing that makes a big difference." — Winston Churchill</item>
+            <item>"To bring about change, you must not be afraid to take the first step. We will fail when we fail to try." — Rosa Parks</item>
+            <item>"All our dreams can come true, if we have the courage to pursue them." — Walt Disney</item>
+            <item>"Don't sit down and wait for the opportunities to come. Get up and make them." — Madam C.J. Walker</item>
+            <item>"Champions keep playing until they get it right." — Billie Jean King</item>
+        </string-array>
+
+</resources>
